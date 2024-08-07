@@ -1,6 +1,6 @@
 variable "resource_group_location" {
   type        = string
-  default     = "eastus"
+  default     = "southeastasia"
   description = "Location for all resources."
 }
 
