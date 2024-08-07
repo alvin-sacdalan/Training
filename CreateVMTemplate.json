@@ -23,7 +23,7 @@
     },
     "Configure_WinRM_hostName": {
       "type": "string",
-      "defaultValue": "testwin10.southeastasia.cloudapp.azure.com"
+      "defaultValue": "testwin10"
     }
   },
   "variables": {
